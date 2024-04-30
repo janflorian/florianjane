@@ -1,0 +1,71 @@
+body{
+	background-image: url("./orange.jpg") ;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	backdrop-filter: blur(20px);
+	border: 2px solid black(242, 151, 151);
+	padding: 20px 20px;
+	}
+#first-div{
+	text-align: center;
+	}
+	h1{
+	color: black; (253, 195, 230);	
+	font-size: 30px;
+	font-weight: bolder;
+	text-align: center;
+	}
+	.image{
+	width: 150px;
+	height: 150px;
+	border-radius:100%;
+	border: solid 5px black(246, 142, 142);
+	}
+	h2 a{
+	color: black(255, 199, 199);
+	text-decoration: none;
+	font-family: Arial;
+	}
+	h2: hover a {
+	color: black;
+	background-color: black;
+	padding: 5px 10px;
+	border: 2px solid blue (247, 107, 107);
+	border-radius: 8px;
+	}
+	.first paragraph{
+	color: whitesmoke;
+	text-indent: 2em;
+	text-align: justify;
+	}
+	.education{
+	margin-bottom: 10px;
+	}
+	.horizontal-line{
+	width: 100%;
+	border: 2px solid black(251, 100, 100);
+	margin-bottom: 10px;
+	}
+
+	#second-div h3, h4{
+	background-color: lightblue;
+	font-family: Arial;
+	}
+
+	table{
+	width: 100%;
+	font-family: Arial;
+	border-collapse: collapse;
+	}
+	td{
+	background-color: whitesmoke;
+	}
+	th, td{
+	padding: 8px;
+	}
+	.second-paragraph{
+	color: black;
+	text-indent: 2em;
+	text-align: justify;
+	}
